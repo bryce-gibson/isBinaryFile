@@ -86,5 +86,3 @@ module.exports.isBinaryCheck = function isBinaryCheck(bytes, size) {
 
   return false;
 }
-
-module.exports.isBinaryCheck = isBinaryCheck;
